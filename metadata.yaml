@@ -1,5 +1,8 @@
 _repo: The-Ambassadors_432
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: James, Henry
@@ -15,6 +18,8 @@ description: "The Ambassadors is a 1903 novel by Henry James, originally publish
   \ wayward son; he is to bring the young man back to the family business, but he\
   \ encounters unexpected complications. The third-person narrative is told exclusively\
   \ from Strether's point of view.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/432#The-Ambassadors
 gutenberg_issued: '1996-02-01'
 gutenberg_type: Text
 identifiers:
